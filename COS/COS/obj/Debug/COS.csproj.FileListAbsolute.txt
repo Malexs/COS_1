@@ -1,0 +1,9 @@
+C:\Repositories\COS\COS_1\COS\COS\bin\Debug\COS.exe.config
+C:\Repositories\COS\COS_1\COS\COS\bin\Debug\COS.exe
+C:\Repositories\COS\COS_1\COS\COS\bin\Debug\COS.pdb
+C:\Repositories\COS\COS_1\COS\COS\obj\Debug\COS.csprojResolveAssemblyReference.cache
+C:\Repositories\COS\COS_1\COS\COS\obj\Debug\COS.Form1.resources
+C:\Repositories\COS\COS_1\COS\COS\obj\Debug\COS.Properties.Resources.resources
+C:\Repositories\COS\COS_1\COS\COS\obj\Debug\COS.csproj.GenerateResource.Cache
+C:\Repositories\COS\COS_1\COS\COS\obj\Debug\COS.exe
+C:\Repositories\COS\COS_1\COS\COS\obj\Debug\COS.pdb
